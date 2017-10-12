@@ -5,3 +5,5 @@ indexog.html
 New GitHub Process.md
 */.vscode
 */.ignore
+.firebase.json
+.firebaserc
